@@ -6,7 +6,7 @@ class Cnstrctr
     System.out.println("this is default constructor"); 
   }
 }
-class File extends Sample
+class File extends Cnstrctr
 {
   File(String name)
   {
